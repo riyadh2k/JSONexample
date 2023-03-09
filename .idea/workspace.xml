@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30a8ec7-f623-4cd0-8d26-b19632d36180" name="Changes" comment="Lagt till en ny main">
+    <list default="true" id="f30a8ec7-f623-4cd0-8d26-b19632d36180" name="Changes" comment="Skapat ett JSON Object och hämtar data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSON example.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678350628639</updated>
-      <workItem from="1678350630340" duration="2425000" />
+      <workItem from="1678350630340" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="Lagt till en ny main">
       <created>1678351202066</created>
@@ -56,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678351202066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Skapat ett JSON Object och hämtar data">
+      <created>1678354172980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678354172980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lagt till en ny main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lagt till en ny main" />
+    <MESSAGE value="Skapat ett JSON Object och hämtar data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skapat ett JSON Object och hämtar data" />
   </component>
 </project>
