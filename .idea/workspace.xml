@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30a8ec7-f623-4cd0-8d26-b19632d36180" name="Changes" comment="Skapat ett JSON Object och hämtar data new">
+      <change afterPath="$PROJECT_DIR$/src/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Mlmd6lxNQBWMG8JyXHWrDXdDuS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678350628639</updated>
-      <workItem from="1678350630340" duration="3789000" />
+      <workItem from="1678350630340" duration="11434000" />
     </task>
     <task id="LOCAL-00001" summary="Lagt till en ny main">
       <created>1678351202066</created>
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678354599742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Skapat ett JSON Object och hämtar data new">
+      <created>1678354782265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678354782265</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
